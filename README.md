@@ -17,4 +17,5 @@ Alle deine ToDo's bleiben lokal in einer CSV-Datei gesichert und werden nie an e
 - [ ] Priorisieren von Aufgaben.
 
 ### Abgeschlossene Features ✓
-- [x] Completed task title  
+- [x] Check ob alle Datein vorhanden sind
+- [x] Setup Script
