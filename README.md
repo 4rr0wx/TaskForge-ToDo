@@ -7,4 +7,14 @@ Alle deine ToDo's bleiben lokal in einer CSV-Datei gesichert und werden nie an e
 
 - Erstellen, Bearbeiten und Löschen von Aufgaben.
 
+## To-Do
+### Features 
+- [ ] ⚠️ Löschen Funktion implementieren
+- [ ] Organisieren von Aufgaben in mehreren To-Do-Listen.
+  - [ ] Unterschiedliche CSV Dateien
+- [ ] GUI Unterstützung
+- [ ] Markieren von Aufgaben als erledigt oder unerledigt.
+- [ ] Priorisieren von Aufgaben.
 
+### Abgeschlossene Features ✓
+- [x] Completed task title  
